@@ -2,16 +2,14 @@
 0C
 ======
 
-* 4.20 
-* [lang](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) 
-* [prg](https://github.com/ttltrk/PRG)
-* [db](https://github.com/ttltrk/DB)
-* [ux](https://github.com/ttltrk/ELSE/tree/master/SHELL)
-* play
-* [chess](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD)
-* [cube](https://github.com/ttltrk/ELSE/blob/master/CUBE/CUBE.MD)
-* [wo](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD)
-* [read](https://github.com/ttltrk/BKS/blob/master/README.MD)
+| Task | DIR |
+|------|-----|
+| 4.20 | #2  |
+| [lang](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) | #53 |
+| [coding](https://ttltrk.github.io/ttltrk.github.io/) | #52 
+| [chess](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD) | #5 |
+| [wo](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) | #1 |
+| [read](https://github.com/ttltrk/BKS/blob/master/README.MD) | #1 |
 
 
 ### History
