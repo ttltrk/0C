@@ -2,7 +2,7 @@
 0C
 ======
 
-* 4.20 - [x] 
+* 4.20 
 * [lang](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) 
 * [prg](https://github.com/ttltrk/PRG)
 * [db](https://github.com/ttltrk/DB)
