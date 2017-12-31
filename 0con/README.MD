@@ -4,7 +4,7 @@
 
 Goals for 2018
 
-- [ ] become a python coder
+- [ ] become a pro py. coder
 - [ ] over 100 in be-sq-dl
 - [ ] zbrojnicky preukaz
 
