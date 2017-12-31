@@ -2,12 +2,6 @@
 0C
 ======
 
-Goals for 2018
-
-- [ ] become a pro py. coder
-- [ ] over 100 in be-sq-dl
-- [ ] zbrojnicky preukaz
-
 | Task | DIR |
 |------|-----|
 | [lang](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) | #0 |
