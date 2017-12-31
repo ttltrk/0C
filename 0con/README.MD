@@ -10,7 +10,6 @@ Goals for 2018
 
 | Task | DIR |
 |------|-----|
-| 4.00 | #0  |
 | [lang](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) | #0 |
 | [coding](https://ttltrk.github.io/ttltrk.github.io/) | #0 | 
 | [chess](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD) | #0 |
