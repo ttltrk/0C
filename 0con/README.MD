@@ -2,6 +2,12 @@
 0C
 ======
 
+Goals for 2018
+
+* become a python coder
+* over 100 in be-sq-dl
+* zbrojnicky preukaz
+
 | Task | DIR |
 |------|-----|
 | 4.00 | #0  |
