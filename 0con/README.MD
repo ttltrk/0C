@@ -6,8 +6,6 @@
 
 [coding](https://github.com/ttltrk/PRG/blob/master/CODING.MD)
 
-[chess](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD)
-
 [wo](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD)
 
 [read](https://github.com/ttltrk/BKS/blob/master/README.MD)
