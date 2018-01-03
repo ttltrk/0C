@@ -1,5 +1,5 @@
 
-0C
+zero contrast
 ======
 
 * [lang](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD)
