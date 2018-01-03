@@ -13,7 +13,4 @@
 [read](https://github.com/ttltrk/BKS/blob/master/README.MD)
 
 
-### History
-
-- [2017-DEC-22 (Friday)](https://github.com/ttltrk/0con/blob/master/0con/HISTORY/2017-12-22.MD)
 
