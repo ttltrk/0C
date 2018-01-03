@@ -7,6 +7,8 @@ Z0C
 [WO](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) -
 [Read](https://github.com/ttltrk/BKS/blob/master/README.MD)
 
+Main source about my daily progress.
+
 [H](http://ttltrk.net/)
 
 
