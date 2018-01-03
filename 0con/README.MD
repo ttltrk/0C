@@ -4,7 +4,7 @@
 
 [lang](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD)
 
-[coding](https://ttltrk.github.io/ttltrk.github.io/)
+[coding](https://github.com/ttltrk/PRG/blob/master/CODING.MD)
 
 [chess](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD)
 
