@@ -9,6 +9,6 @@ My daily tasks:
 [Books](https://github.com/ttltrk/BKS/blob/master/README.MD)
 
 Goals:
-[Life List](https://github.com/ttltrk/ELSE/blob/master/LL/LifeList.MD)
+Completed and Planned [Goals](https://github.com/ttltrk/ELSE/blob/master/LL/LifeList.MD)
 
 [<<>>](http://ttltrk.net/)
