@@ -7,6 +7,6 @@ Z0C
 [WO](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) -
 [Bks](https://github.com/ttltrk/BKS/blob/master/README.MD)
 
-Main source about my daily progress.
+Main source about my daily progress. You can check my [Life List](https://github.com/ttltrk/ELSE/blob/master/LL/LifeList.MD) too.
 
 [<<>>](http://ttltrk.net/)
