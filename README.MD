@@ -8,7 +8,4 @@ My daily tasks for:
 [WO](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) and some
 [Books](https://github.com/ttltrk/BKS/blob/master/README.MD). 
 
-
-Completed and Planned [Goals](https://github.com/ttltrk/ELSE/blob/master/LL/LifeList.MD)
-
 [<<>>](http://ttltrk.net/)
