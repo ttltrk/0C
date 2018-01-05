@@ -2,10 +2,13 @@
 Z0C
 ======
 
-My daily tasks: 
+My daily tasks for: 
 [Language](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD), 
 [Coding](https://github.com/ttltrk/PRG/blob/master/CODING.MD),
 [WO](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) and some
-[Books](https://github.com/ttltrk/BKS/blob/master/README.MD). Completed and Planned [Goals](https://github.com/ttltrk/ELSE/blob/master/LL/LifeList.MD)
+[Books](https://github.com/ttltrk/BKS/blob/master/README.MD). 
+
+
+Completed and Planned [Goals](https://github.com/ttltrk/ELSE/blob/master/LL/LifeList.MD)
 
 [<<>>](http://ttltrk.net/)
