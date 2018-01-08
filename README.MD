@@ -11,6 +11,10 @@ Daily Tasks
 
 Goals for 2018:
 
+|TASK|2018|ACTUAL|
+|---|----|----|
+
+
 * Language - 100% for ENG on duolingo - actual status 63%
 * Coding - 1 python course per month on udemy - actual status 1/12
 * Books - 1 book per week - actual status 1/52
