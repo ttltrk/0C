@@ -9,4 +9,18 @@ Daily Tasks
 * [Books](https://github.com/ttltrk/BKS/blob/master/README.MD) 
 * [WO](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
 
+Goals for 2018:
+
+* Language
+* Coding
+* Books
+* WO
+
+Reached Goals:
+
+* Language
+* Coding
+* Books
+* WO
+
 [<<>>](http://ttltrk.net/)
