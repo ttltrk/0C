@@ -13,7 +13,7 @@ Z0C
 
 |TASK|2018|ACTUAL|
 |---|----|----|
-|Language|100%|63%|
+|Language|ENG 100% on duolingo|63%|
 |Coding|1 python course per month on udemy|1/12|
 |Books|1 book per week|1/52|
 |WO|3 digits for BE, SQ, DL|BE: 2, SQ: 2, DL: 3|
