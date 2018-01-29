@@ -14,7 +14,7 @@ Z0C
 
 |TASK|2018|ACTUAL|
 |---|----|----|
-|Language|ENG 100% on duolingo|64%|
+|Language|ENG 100% on duolingo|63%|
 |Coding 1|1 python course per month on udemy|1/12|
 |Coding 2|1 python job interview in 2018|inp|
 |Books|1 book per week|1/52|
