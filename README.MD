@@ -15,8 +15,7 @@ Z0C
 |TASK|2018|ACTUAL|
 |---|----|----|
 |Language|ENG 100% on duolingo|64%|
-|Coding 1|1 python course per month on udemy|1/12|
-|Coding 2|1 python job interview in 2018|inp|
+|Coding |1 python course per month on udemy|1/12|
 |Books|1 book per week|1/52|
 |WO|3 digits for BE, SQ, DL|DONE|
 |CRD=CR+SP+DIV|n+1|n|
