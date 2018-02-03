@@ -8,7 +8,6 @@ Z0C
 * [Coding](https://github.com/ttltrk/PRG/blob/master/CODING.MD)
 * [Books](https://github.com/ttltrk/BKS/blob/master/README.MD) 
 * [WO](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
-* [CRD](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/CRD.MD)
 
 ### Goals for 2018
 
@@ -18,6 +17,5 @@ Z0C
 |Coding |1 python course per month on udemy|1/12|
 |Books|1 book per week|1/52|
 |WO|3 digits for BE, SQ, DL|DONE|
-|CRD=CR+SP+DIV|n+1|n|
 
 [<<>>](http://ttltrk.net/)
