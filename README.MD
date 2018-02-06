@@ -13,7 +13,7 @@ Z0C
 |TASK|2018|ACTUAL|
 |---|----|----|
 |Language|ENG 100% on duolingo|64%|
-|Coding |1 python course per month on udemy|1/12|
+|Coding |coding on daily basis|INP|
 |WO|3 digits for BE, SQ, DL|DONE|
 
 [<<>>](http://ttltrk.net/)
