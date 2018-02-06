@@ -7,7 +7,7 @@ Z0C
 * [Language](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD)
 * [Coding](https://github.com/ttltrk/PRG/blob/master/CODING.MD)
 * [WO](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
-* [BKS]()
+* [BKS](https://github.com/ttltrk/BKS/blob/master/README.MD)
 * [CRD](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/CRD.MD)
 
 ### Goals for 2018
