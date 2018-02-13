@@ -9,6 +9,7 @@ Z0C
 * [WO](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
 * [BKS](https://github.com/ttltrk/BKS/blob/master/README.MD)
 * [CRD](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/CRD.MD)
+* [LL](https://github.com/ttltrk/ELSE/blob/master/LL/LifeList.MD)
 
 ### Goals for 2018
 
