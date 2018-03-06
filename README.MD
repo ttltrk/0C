@@ -1,5 +1,5 @@
 
-.z0c
+z0c
 ------
 
 [lan](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) -
