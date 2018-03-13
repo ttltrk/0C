@@ -5,7 +5,7 @@
 
 ---
 
-[<<<](http://ttltrk.net/)
+[.net](http://ttltrk.net/)
 
 ---
 
