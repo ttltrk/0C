@@ -1,5 +1,5 @@
 
-### [改善](https://en.wikipedia.org/wiki/Kaizen) 
+### [改善](https://en.wikipedia.org/wiki/Kaizen) | daily_habits.
 
 ---
 
