@@ -5,7 +5,8 @@
 
 [la](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) -
 [co](https://github.com/ttltrk/PRG/blob/master/CODING.MD) -
-[wo](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD)
+[wo](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) - 
+[bks]()
 
 ---
 
