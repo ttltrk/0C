@@ -1,5 +1,11 @@
 
+---
+
 ### [改善](https://en.wikipedia.org/wiki/Kaizen)
+
+---
+
+[<<<](http://ttltrk.net/)
 
 ---
 
@@ -9,6 +15,4 @@
 [bs](https://github.com/ttltrk/BKS/blob/master/README.MD)
 
 ---
-
-[<<<](http://ttltrk.net/)
 
