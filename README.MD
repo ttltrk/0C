@@ -9,7 +9,7 @@
 [co](https://github.com/ttltrk/PRG/blob/master/CODING.MD) -
 [wo](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) - 
 [bs](https://github.com/ttltrk/BKS/blob/master/README.MD) -
-[ch]() -
+[ch](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD) -
 [fl](https://github.com/ttltrk/ELSE/blob/master/LINKS/LINKS.MD)
 
 ---
