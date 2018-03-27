@@ -5,13 +5,13 @@
 
 ---
 
-[la](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) -
-[co](https://github.com/ttltrk/PRG/blob/master/CODING.MD) -
-[wo](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
+[L](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) -
+[C](https://github.com/ttltrk/PRG/blob/master/CODING.MD) -
+[W](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
 
-[bs](https://github.com/ttltrk/BKS/blob/master/README.MD) -
-[ch](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD) -
-[fl](https://github.com/ttltrk/ELSE/blob/master/LINKS/LINKS.MD)
+[B](https://github.com/ttltrk/BKS/blob/master/README.MD) -
+[Ch](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD) -
+[F](https://github.com/ttltrk/ELSE/blob/master/LINKS/LINKS.MD)
 
 ---
 
