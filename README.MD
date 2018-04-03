@@ -15,7 +15,7 @@
 ---
 
 * identify (and set) the area
-* focus on small wins by picking simple habits
+* focus on small wins 
 * pick a time, location
 * anchor your stack to a trigger
 * logical sequence
