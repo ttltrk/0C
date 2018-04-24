@@ -24,6 +24,6 @@
 
 ---
 
-[.net](http://ttltrk.net/)
+[[NET]](http://ttltrk.net/)
 
 ---
