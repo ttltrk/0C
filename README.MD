@@ -10,7 +10,8 @@
 [[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
 [[B]](https://github.com/ttltrk/BKS/blob/master/README.MD)
 [[CH]](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD) 
-[[F]](https://github.com/ttltrk/ELSE/blob/master/LINKS/LINKS.MD)
+[[TW]](https://github.com/ttltrk/ELSE/blob/master/TECH_WRITE/TW.MD)
+
 
 ---
 
