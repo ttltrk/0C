@@ -11,8 +11,6 @@
 [[CRD]](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/CRD.MD)
 [[B]](https://github.com/ttltrk/BKS/blob/master/README.MD)
 [[CH]](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD) 
-[[TW]](https://github.com/ttltrk/ELSE/blob/master/TECH_WRITE/TW.MD)
-
 
 ---
 
