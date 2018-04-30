@@ -7,7 +7,8 @@
 
 [[L]](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD)
 [[C]](https://github.com/ttltrk/PRG/blob/master/CODING.MD)
-[[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
+[[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD)
+[[CRD]](https://github.com/ttltrk/ELSE/blob/master/CRD/DIV/CRD.MD)
 [[B]](https://github.com/ttltrk/BKS/blob/master/README.MD)
 [[CH]](https://github.com/ttltrk/ELSE/blob/master/CHESS/CHESS.MD) 
 [[TW]](https://github.com/ttltrk/ELSE/blob/master/TECH_WRITE/TW.MD)
