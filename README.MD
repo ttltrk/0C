@@ -11,13 +11,7 @@
 
 ---
 
-* identify (and set) the area
-* focus on small wins 
-* pick a time, location
-* anchor your stack to a trigger
-* logical sequence
-* track/share your progress
-* focus on repetition by never missing a day
+**F0tH**
 
 ---
 
