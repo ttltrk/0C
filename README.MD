@@ -11,12 +11,6 @@
 
 ---
 
-* L - (DIR: 130)
-* C - (DIR: 124)
-* W - (DIR: 4)
-
----
-
 * identify (and set) the area
 * focus on small wins 
 * pick a time, location
