@@ -15,10 +15,6 @@ last track on - 23-AUG-2018 - (Thu)
 
 ---
 
-**f0 --> H**
-
----
-
 [[NET]](http://ttltrk.net/)
 
 ---
