@@ -11,7 +11,7 @@
 
 [[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD)
 
-last track on - 18-SEP-2018 - (Tue)
+last track on - 20-SEP-2018 - (Thu)
 
 ---
 
