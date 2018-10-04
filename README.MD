@@ -5,13 +5,13 @@
 
 ---
 
-[[L]](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) : 204
+[[L]](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) : 207
 
-[[C]](https://github.com/ttltrk/PRG/blob/master/CODING.MD) : 198
+[[C]](https://github.com/ttltrk/PRG/blob/master/CODING.MD) : 200
 
-[[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) : 1
+[[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) : 4
 
-last track on - 01-OCT-2018 - (Thu)
+last track on - 04-OCT-2018 - (Thu)
 
 ---
 
