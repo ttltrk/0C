@@ -9,7 +9,7 @@
 
 [[C]](https://github.com/ttltrk/PRG/blob/master/CODING.MD) : 201
 
-[[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) : 4
+[[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) : 7
 
 last track on - 04-OCT-2018 - (Thu)
 
