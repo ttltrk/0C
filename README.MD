@@ -7,11 +7,11 @@
 
 [[L]](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) : 211
 
-[[C]](https://github.com/ttltrk/PRG/blob/master/CODING.MD) : 20
+[[C]](https://github.com/ttltrk/PRG/blob/master/CODING.MD) : 210
 
 [[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
 
-last track on - 08-OCT-2018 - (Mon)
+last track on - 13-OCT-2018 - (Sat)
 
 ---
 
