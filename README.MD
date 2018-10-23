@@ -5,9 +5,9 @@
 
 ---
 
-[[L]](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) : 216
+[[L]](https://github.com/ttltrk/ELSE/blob/master/LAN/ENG/LAN.MD) : 1
 
-[[C]](https://github.com/ttltrk/PRG/blob/master/CODING.MD) : 210
+[[C]](https://github.com/ttltrk/PRG/blob/master/CODING.MD) : 1
 
 [[W]](https://github.com/ttltrk/ELSE/blob/master/PWR/PWR.MD) 
 
